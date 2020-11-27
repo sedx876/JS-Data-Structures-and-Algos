@@ -57,3 +57,6 @@ No waste of memory
 
 Sequential access is slow [Reason:
 Elements not in contigous memory locations]
+
+# Edge Cases
+In programming, an edge case typically involves input values that require special handling in an algorithm behind a computer program. As a measure for validating the behavior of computer programs in such cases, unit tests are usually created; they are testing boundary conditions of an algorithm, function or method.
